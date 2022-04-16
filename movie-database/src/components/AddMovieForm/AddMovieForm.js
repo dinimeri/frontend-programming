@@ -41,6 +41,7 @@ function AddMovieForm(props) {
     });
   }
 
+  // Task Pertemuan 8
   function validate() {
     if (title === "") {
       setIsDataError({
